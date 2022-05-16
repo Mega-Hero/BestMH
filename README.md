@@ -139,3 +139,7 @@ This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](h
 
 ## Deploy To Heroku 
 [![20220411_065237](https://user-images.githubusercontent.com/91818980/162686070-c0064258-1f97-4ddd-b3f4-87f7524cdaf0.png)](https://heroku.com/deploy)
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mega-Hero/BestMH)
