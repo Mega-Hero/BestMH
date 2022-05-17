@@ -80,8 +80,10 @@ these are the extra features of @MutyalaHarshith
 This module only works for my admins
 
 <b>Commands and Usage from @MutyalaHarshith:</b>
+• /logs - <code>to get the rescent errors</code>
 • /stats - <code>to get status of files in db.</code>
 • /delete - <code>to delete a specific file from db.</code>
+• /users - <code>to get list of my users and ids.</code>
 • /chats - <code>to get list of the my chats and ids </code>
 • /leave  - <code>to leave from a chat.</code>
 • /disable  -  <code>do disable a chat.</code>
