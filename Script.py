@@ -79,7 +79,7 @@ these are the extra features of @MutyalaHarshith
 <b>NOTE:</b>
 This module only works for my admins
 
-<b>Commands and Usage from @MutyalaHarshitb:</b>
+<b>Commands and Usage from @MutyalaHarshith:</b>
 • /logs - <code>to get the rescent errors</code>
 • /stats - <code>to get status of files in db.</code>
 • /delete - <code>to delete a specific file from db.</code>
@@ -101,7 +101,7 @@ Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
-    LOG_TEXT_P = """#NewUser
+    LOG_TEXT_P = """#NewUser @MutyalaHarshith
 ID - <code>{}</code>
 Name - {}
 """
